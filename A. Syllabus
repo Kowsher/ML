@@ -4,6 +4,8 @@
 
 * Linear Regression
     #Statistics && mathematics 
+        ->correlation and regression lines
+            https://www.youtube.com/watch?v=SD9qoxajqo8&list=PLJy0LHDLpgHGerwgH8LlVRl0ThQG1v2fb
         -> Simple Lienar Regression Basic
              https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=1
         -> Cost Function
@@ -19,7 +21,8 @@
         -> Cross Validation
             https://www.youtube.com/watch?v=hihuMBCuSlU
         -> Mean squared error    
-            https://www.youtube.com/watch?v=r-txC-dpI-E
+            https://www.youtube.com/watch?v=r-txC-dpI
+    #Applied using python
         -> linear regression using python   
             https://www.youtube.com/watch?v=E-xp-SjfOSY
         ->-> Mean squared error in python    
